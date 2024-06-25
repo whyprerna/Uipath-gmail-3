@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Inbox (22) - rpaioclintern@gmail.com -",
+  "Type": "Screen",
+  "Id": "auMOU4PbkU2y_KRUr5kV0Q",
+  "Reference": "rcP7ETmRQ0GiVYPwb6HdoA/auMOU4PbkU2y_KRUr5kV0Q",
+  "ParentRef": "rcP7ETmRQ0GiVYPwb6HdoA/8Lt_AhrfUUif-EtRd2GNLg",
+  "Created": "2024-06-24T15:46:32.4222423Z",
+  "Updated": "2024-06-24T15:46:32.4222423Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
